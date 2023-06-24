@@ -17,10 +17,10 @@
  </p>
 
 ## &#x1f4c8; My GitHub Stats
-<a href="https://github.com/in/mes71">
+<a href="https://github.com/mes71">
   <img src="https://github-readme-stats.vercel.app/api?username=mes71&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mojtaba Eshaghi's GitHub Stats" />
 </a>
 
-<a href="https://github.com/in/mes71">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mes71&hide=Jupyter Notebook,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mojtaba Eshaghi" width="300" height="282"/>
+<a href="https://github.com/mes71">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mes71&layout=donut&hide=Jupyter Notebook,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mojtaba Eshaghi" width="300" height="282"/>
 </a>
