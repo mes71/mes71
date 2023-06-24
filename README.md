@@ -18,11 +18,8 @@
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mes71&show_icons=true&theme=merko)](https://github.com/mes71)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mes71)](https://github.com/mes71)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mes71&layout=donut&hide=JupyterNotebook,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/mes71)
 
-<a href="https://github.com/mes71">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mes71&layout=donut&hide=Jupyter Notebook,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mojtaba Eshaghi" width="300" height="282"/>
-</a>
 
 
 
